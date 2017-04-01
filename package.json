@@ -1,0 +1,27 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "1) Execute ```node main.js``` 2) Verify console",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.2",
+    "webpack": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatho/test-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatho/test-node/issues"
+  },
+  "homepage": "https://github.com/renatho/test-node#readme"
+}
